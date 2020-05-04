@@ -1,0 +1,5 @@
+Ana|32|Oradea
+Mihai|12|Cluj
+George|42|Bucuresti
+Maria|53|Oradea
+Horatiu|31|Blaj
